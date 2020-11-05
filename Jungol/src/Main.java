@@ -10,10 +10,6 @@ public class Main {
 			ar[i] = sc.nextInt();
 		}
 		sc.close();
-//		for (int i = 0; i < ar.length; i++) {
-//			System.out.print(ar[i] + " ");
-//		}
-//		System.out.println();
 
 		//2nd case
 		Arrays.sort(ar);
